@@ -1,0 +1,1038 @@
+================================================================
+                        CODEX ELDRITCH
+   Règles de Ténacité, Capacités, Arbres de compétences et Classes
+================================================================
+
+
+================================================================
+I. RÈGLES GÉNÉRALES
+================================================================
+
+--- Ténacité ---
+
+Les points de Ténacité sont une ressource qui permet d'attribuer
+un bonus supplémentaire à n'importe quel jet de D20. Avant de
+lancer le dé, le joueur peut décider de dépenser n'importe quel
+nombre de points de Ténacité en sa possession : le résultat
+bénéficie alors d'un bonus de +0,1 par point dépensé.
+
+La Ténacité se gagne principalement de deux manières :
+- À chaque échec à un jet de dé, le joueur reçoit en compensation
+  1 point de Ténacité. (En règle générale, un échec correspond à
+  un résultat entre 2 et 7 pour la plupart des jets. Certains jets
+  ont une plage d'échec différente — par exemple lors d'une
+  attaque ou d'une défense, où l'échec dépend de la réussite de
+  l'esquive/parade adverse ou de son propre jet.)
+- De nombreuses Capacités offrent des moyens supplémentaires d'en
+  gagner.
+
+
+--- Capacités ---
+
+Les Capacités sont des effets particuliers dont peuvent
+s'équiper les joueurs pour les utiliser en jeu. Il existe trois
+types de Capacités : Actives, Passives et Contrôlables. Selon
+leur type, elles nécessitent parfois de consommer de la Mana, de
+l'Énergie (ou une autre ressource) ainsi qu'un jet de dé pour
+produire leur effet.
+
+Chaque joueur débute avec les 4 Capacités de sa Classe, et peut
+en acquérir d'autres dans les arbres de Capacités à l'aide de
+Points de Mérite. Il peut acheter de nouvelles Capacités dès
+qu'il se repose, et peut à ce même moment se faire rembourser
+une Capacité : il la supprime alors de sa feuille de personnage
+et récupère autant de Points de Mérite que son coût initial
+moins un.
+
+  ~ Les Actives ~
+  Une action spéciale : le joueur dépense un coût (Mana,
+  Énergie…) puis lance un dé avec le bonus de Statistique
+  associé.
+      1        : L'effet ne s'active pas
+      2 à 7    : Le premier palier d'effet s'active
+      8 à 13   : Le second palier d'effet s'active
+      14 à 19  : Le troisième palier d'effet s'active
+      20       : Le troisième palier s'active et le coût n'est
+                 pas consommé
+
+  ~ Les Passives ~
+  Effets permanents ne nécessitant aucune activation : ils
+  s'appliquent constamment, généralement liés à une situation
+  particulière.
+
+  ~ Les Contrôlables ~
+  Une forme spéciale de Capacité Active, avec le même barème de
+  réussite — à ceci près que l'échec (1) consomme tout de même
+  le coût :
+      1        : L'effet ne s'active pas ; le coût est consommé
+      2 à 7    : Le premier palier d'effet s'active
+      8 à 13   : Le second palier d'effet s'active
+      14 à 19  : Le troisième palier d'effet s'active
+      20       : Le troisième palier s'active et le coût n'est
+                 pas consommé
+
+  Elles se distinguent par trois particularités :
+  - Durée. Une fois activé, l'effet dure un temps indéfini — un
+    véritable changement de phase, avec ses bénéfices et ses
+    inconvénients.
+  - Fin du contrôlable. Le joueur doit réaliser un second jet
+    (sans coût) pour revenir à son état normal. En dessous de 14,
+    il reste sous cette forme.
+  - Intervention du MJ. Le Maître de jeu peut déclencher
+    gratuitement une Capacité Contrôlable si la situation le
+    justifie ; le joueur peut alors résister par un nouveau jet
+    ≥ 14. Le MJ peut aussi y mettre fin sans jet, et le joueur
+    peut de même choisir de résister. L'effet s'arrête
+    automatiquement si le personnage est inconscient.
+
+
+================================================================
+II. RÈGLES DES CLASSES
+================================================================
+
+Pour toutes les Classes et Capacités à Mana, le coût est réduit
+de moitié et les passifs de Classe sont modifiés en conséquence.
+Il n'y a plus de distinction entre les différents types de magie
+dans les règles.
+
+Les Classes semi-Magiques répartissent leurs Capacités en 2 à
+Mana et 1 à Énergie (au lieu de 1 à Mana et 2 à Énergie).
+Les Classes semi-Énergie répartissent leurs Capacités en 1 à
+Mana et 2 à Énergie (au lieu de 3 à Énergie).
+
+
+================================================================
+III. ARBRES DE COMPÉTENCES
+================================================================
+
+Chaque arbre s'organise en Cercles. La Capacité centrale d'un
+Cercle ouvre l'accès aux suivantes ; certaines Capacités évoluent
+en versions améliorées, achetées séparément.
+
+
+----------------------------------------------------------------
+CHASSEUR DE TROLL
+----------------------------------------------------------------
+
+=== Cercle des Armes ===
+
+> Maniement Intense (Capacité centrale du Cercle)
+  Passif — 3 PM
+  +1 à tous vos jets d'Entraînement de Maniement.
+
+> Bâton à une main
+  Passif — 4 PM
+  Si vous maîtrisez la Classe, les bâtons sont désormais
+  considérés comme des armes à une main.
+
+> Tir léger à une main
+  Passif — 4 PM
+  Si vous maîtrisez la Classe, les arbalètes et les armes de
+  détonation légères sont désormais considérées comme des armes
+  à une main (rechargement non compris).
+
+> Armement sous couvert
+  Passif — 4 PM
+  En combattant avec un bouclier et une arme à une main, le
+  bonus de dégâts de maîtrise de Type du bouclier s'applique
+  aussi à l'arme à une main (même si sa Classe n'est pas
+  maîtrisée et qu'elle subit un malus au jet).
+
+> Armement double
+  Passif — 4 PM
+  En combattant avec deux armes d'une même Classe, le bonus de
+  dégâts de maîtrise de Type le plus élevé s'applique aux deux
+  armes.
+
+=== Cercle des Affrontements ===
+
+> Mandale barbare (Capacité centrale du Cercle)
+  Passif — 2 PM
+  +1,5 en Force et en Dextérité durant les combats à mains nues.
+
+> Berserk
+  Contrôlable — 15 Énergie — 6 PM
+  Réalisez un jet de Courage.
+    Palier 1 : Le Contrôlable ne se déclenche pas, mais gagnez
+               10 points de Ténacité.
+    Palier 2 : Se déclenche : +1,5 Omni, mais vous perdez toute
+               pitié, la capacité à communiquer, et vous vous
+               retournez contre vos alliés si aucun ennemi n'est
+               présent.
+    Palier 3 : Se déclenche : +2,5 Omni, mêmes effets néfastes.
+
+> Berserk puissant (Évolution de "Berserk")
+  Passif — 4 PM
+  "Berserk" ne peut plus être déclenché par le MJ. Si vous
+  devez gagner de la Ténacité sous cette forme, gagnez-en le
+  double.
+
+> Attaque sanglante
+  Passif — 4 PM
+  Lorsque vous infligez des dégâts auxquels l'ennemi est
+  sensible, gagnez 5 points de Ténacité.
+
+> Chasseur du nord
+  Passif — 3 PM
+  En milieu hostile, chaque gain de Ténacité vous octroie 1
+  point supplémentaire.
+
+
+----------------------------------------------------------------
+DOMPTEUR DE PHÉNIX
+----------------------------------------------------------------
+
+=== Cercle des Sortilèges ===
+
+> Contrôle (Capacité centrale du Cercle)
+  Passif — 3 PM
+  Vos sortilèges coûtent 1 Mana de moins hors combat au
+  lancement.
+
+> Contrôle amélioré (Évolution de "Contrôle")
+  Passif — 3 PM
+  "Contrôle" fait désormais économiser 2 Mana hors combat.
+
+> Contrôle perfectionné (Évolution de "Contrôle amélioré")
+  Passif — 3 PM
+  "Contrôle amélioré" fait désormais économiser 3 Mana hors
+  combat.
+
+> Absorption malsaine
+  Actif — 12 Énergie — 5 PM
+  Réalisez un jet de Perception si vous êtes la cible d'un
+  sortilège.
+    Palier 1 : Gagnez 5 Mana et 5 points de Ténacité.
+    Palier 2 : Annulez ses effets, gagnez 5 Mana et 5 points de
+               Ténacité.
+    Palier 3 : Annulez ses effets, gagnez 8 Mana et 8 points de
+               Ténacité.
+
+> Inspiration magique
+  Actif — 6 Énergie — 5 PM
+  Réalisez un jet de Réflexion.
+    Palier 1 : +3 Aura sur le prochain sortilège ; son coût
+               augmente de 5 Mana au lancement.
+    Palier 2 : +4 Aura ; coût +2 Mana.
+    Palier 3 : +5 Aura, sans surcoût.
+
+=== Cercle de l'Équipe ===
+
+> Aide de guerre (Capacité centrale du Cercle)
+  Passif — 4 PM
+  Lorsque vous infligez des dégâts à un ennemi qu'affronte un
+  allié, celui-ci gagne 3 points de Ténacité.
+
+> Apaisement
+  Actif — 6 Énergie — 4 PM
+  Réalisez un jet de Charisme pour tenter de contrer une
+  Capacité Contrôlable d'un allié.
+    Palier 1 : Non contrée, mais l'allié gagne 5 points de
+               Ténacité.
+    Palier 2 : Contrée, mais l'allié devient inconscient.
+    Palier 3 : Contrée, et l'allié gagne 3 points de Ténacité.
+
+> Restauration éternelle
+  Passif — 6 PM
+  Gagnez X points de Ténacité après une tentative de soin, X
+  étant le nombre de tentatives déjà réalisées ce jour-là.
+
+> Restauration éternelle améliorée (Évolution de "Restauration
+  éternelle")
+  Passif — 4 PM
+  Si un de vos soins vise un allié, ce dernier gagne autant de
+  Ténacité que vous.
+
+> Instinct volatile
+  Actif — 8 Énergie — 4 PM
+  Réalisez un jet de Perception pour détecter quelque chose de
+  dissimulé dans une zone.
+    Palier 1 : Rien détecté, mais gagnez 4 points d'Énergie.
+    Palier 2 : Un élément détecté (s'il y en a) ; chaque allié
+               présent gagne 2 points de Ténacité.
+    Palier 3 : Plusieurs éléments détectés ; chaque allié
+               présent gagne 5 points de Ténacité.
+
+
+----------------------------------------------------------------
+MYSTIFIEUR DE VOUIVRE
+----------------------------------------------------------------
+
+=== Cercle de l'Énergie ===
+
+> Entraînement Intense (Capacité centrale du Cercle)
+  Passif — 3 PM
+  +1 à tous vos jets d'Entraînement de Connaissances.
+
+> Jet d'arme
+  Actif — 6 Énergie — 4 PM
+  Réalisez un jet de Dextérité pour jeter une de vos armes sur
+  un ennemi.
+    Palier 1 : Cible manquée, mais gagnez 5 points de Ténacité.
+    Palier 2 : Cible atteinte : +5 au jet de dégâts.
+    Palier 3 : Cible atteinte : +10 au jet de dégâts.
+
+> Adrénaline
+  Actif — 2 Énergie — 3 PM
+  Réalisez un jet d'Endurance.
+    Palier 1 : Gagnez, au choix, 2 points d'Énergie ou de Mana.
+    Palier 2 : 3 points, au choix.
+    Palier 3 : 4 points, au choix.
+
+> Adrénaline améliorée (Évolution de "Adrénaline")
+  Passif — 4 PM
+  "Adrénaline" fait désormais gagner un point d'Énergie ou de
+  Mana supplémentaire.
+
+> Duplicité fraternelle
+  Actif — X+2 Énergie — 6 PM
+  Tentez de recopier une Capacité usant d'Énergie qu'un allié
+  vient d'utiliser avec succès : réalisez le même jet que lui,
+  et dépensez autant de points d'Énergie +2.
+
+=== Cercle de la Malveillance ===
+
+> Réflex mortel (Capacité centrale du Cercle)
+  Passif — 2 PM
+  Gagnez 2 points de Ténacité lors d'une esquive réussie.
+
+> Réflex mortel amélioré (Évolution de "Réflex mortel")
+  Passif — 3 PM
+  Gagnez désormais 3 points de Ténacité lors d'une esquive
+  réussie.
+
+> Dernière volonté
+  Passif — 4 PM
+  Tant qu'un joueur (vous y compris) a moins de 30 PV, gagnez
+  +0,5 Omni.
+
+> Membre des ombres
+  Actif — 10 Énergie — 5 PM
+  Réalisez un jet d'Agilité pour attaquer une créature qui ne
+  vous a pas repéré, avec n'importe quelle arme.
+    Palier 1 : L'adversaire vous repère et évite l'attaque, mais
+               il est déséquilibré.
+    Palier 2 : Réussite : +10 au jet de dégâts.
+    Palier 3 : +5 aux dégâts de l'arme ; l'attaque est résolue
+               comme une réussite critique.
+
+> Focalisation sanguinaire
+  Actif — 6 Énergie — 4 PM
+  Réalisez un jet de Dextérité.
+    Palier 1 : La prochaine attaque gagne +5 aux dégâts (si elle
+               porte).
+    Palier 2 : La prochaine attaque est considérée comme si
+               l'adversaire y était sensible (si elle porte).
+    Palier 3 : Les deux effets cumulés (si elle porte).
+
+
+----------------------------------------------------------------
+CRÉATEUR DE CHIMÈRE
+----------------------------------------------------------------
+
+=== Cercle de la Voie ===
+
+> Nouvelle aspiration (Capacité centrale du Cercle)
+  Passif — 3 PM
+  Choisissez à l'achat une Capacité Passive parmi celles de
+  n'importe quelle Classe : vous en bénéficiez désormais. Vous
+  pouvez la remplacer hors combat pour 1 point de Mérite.
+
+> Spécialisation vigoureuse
+  Actif — X+2 Énergie — 5 PM
+  Choisissez à l'achat une Capacité Active parmi celles des
+  Classes Guerrier, Barbare, Eldorien, Éclaireur, Assassin,
+  Voleur, Dompteur, Abroniste ou Lycanthrope. Utilisable pour
+  son coût habituel + 2 points d'Énergie. Remplaçable hors
+  combat pour 1 point de Mérite.
+
+> Spécialisation arcanique
+  Actif — X+2 Mana — 5 PM
+  Choisissez à l'achat une Capacité Active parmi celles des
+  Classes Mancien, Alchimiste, Clerc, Paladin, Shaman, Nayra,
+  Nécromant, Cultiste ou Vampire. Utilisable pour son coût
+  habituel + 2 points de Mana. Remplaçable hors combat pour 1
+  point de Mérite.
+
+> Posture alternative
+  Contrôlable — 5 Énergie + 5 Mana — 6 PM
+  Choisissez à l'achat une Classe. Sous ce Contrôlable, vous
+  perdez les Capacités de vos Classes habituelles mais pouvez
+  utiliser toute Capacité de la Classe choisie pour son coût
+  habituel, avec un malus de -1 Omni. L'effet se dissipe
+  automatiquement après une demi-journée d'utilisation continue.
+  La Classe choisie doit appartenir au même groupe qu'une de vos
+  Classes habituelles ; le jet d'activation en dépend :
+    - Groupe Guerrier : Guerrier, Barbare, Eldorien, Éclaireur,
+      Assassin, Voleur, Dompteur, Abroniste, Lycanthrope — jet
+      de Courage.
+    - Groupe Arcane : Mancien, Alchimiste, Clerc, Paladin,
+      Shaman, Nayra, Nécromant, Cultiste, Vampire — jet de
+      Réflexion.
+  Changer de Classe choisie hors combat et hors utilisation
+  coûte 4 points de Mérite.
+
+> Habitude à l'usage
+  Passif — 3 PM
+  En utilisant une Capacité Active ou Contrôlable que vous ne
+  possédez pas (ou d'une Classe que vous ne possédez pas),
+  gagnez +1 sur son jet de dé associé.
+
+=== Cercle de l'Adaptation ===
+
+> Utilisation précise (Capacité centrale du Cercle)
+  Passif — 4 PM
+  Chaque gain de Ténacité issu de l'effet d'une Capacité est
+  augmenté de 1 point supplémentaire.
+
+> Utilisation précise améliorée
+  Passif — 6 PM
+  Vos Bonus d'Opportunité gagnent un bonus supplémentaire de +1.
+
+> Technique vivifiante
+  Actif — 4 Énergie — 5 PM
+  Réalisez un jet d'Endurance en combat.
+    Palier 1 : Une action courte supplémentaire ce tour.
+    Palier 2 : Une action longue supplémentaire ce tour.
+    Palier 3 : Une action longue supplémentaire ; ce tour n'est
+               pas interrompu en interagissant avec un ennemi.
+
+> Surmenage
+  Actif — 6 Énergie — 3 PM
+  Réalisez un jet de Réflexion avant de vous entraîner.
+    Palier 1 : Malus de -5 au résultat de l'Entraînement.
+    Palier 2 : Bonus de +5.
+    Palier 3 : Bonus de +10.
+
+> Perfectionniste
+  Passif — 6 PM
+  En lançant une Capacité Active ou Contrôlable, vous pouvez
+  doubler son coût : le jet de dé suit alors un barème resserré
+  (critiques inchangés) :
+      2 à 10   : Le second palier d'effet s'active
+      11 à 19  : Le troisième palier d'effet s'active
+
+
+================================================================
+IV. LES CLASSES
+================================================================
+
+Chaque Classe débute avec des bonus/malus de Statistiques et de
+Connaissances, ainsi que 4 Capacités innées (non achetées avec
+des Points de Mérite).
+
+
+----------------------------------------------------------------
+LE MANCIEN
+----------------------------------------------------------------
+Stats : +3 Réflexion, -3 Constitution, +3 Sorcellerie,
+        -3 Cuisine, +3 Aura, -5 Chance
+
+> Maîtrise arcanique — Passif
+  Les Capacités à Mana coûtent 2 Mana de moins à être lancées.
+
+> Orbe de feu — Actif — 8 Mana
+  Réalisez un jet d'Aura.
+    Palier 1 : Petite explosion à courte portée : Blessure 3 à
+               toute cible à moins de 2 m (alliés et vous-même
+               compris).
+    Palier 2 : Boule de feu de la taille d'un crâne sur une
+               cible : Blessure 5.
+    Palier 3 : Même effet : Blessure 7.
+
+> Jet de foudre — Actif — 9 Mana
+  Réalisez un jet d'Aura.
+    Palier 1 : Éclair sur une cible : 1D6 de dégâts à elle et à
+               toute créature à moins de 2 m.
+    Palier 2 : 2D6 de dégâts.
+    Palier 3 : 3D6 de dégâts.
+
+> Tempête de glace — Actif — 7 Mana
+  Réalisez un jet d'Aura.
+    Palier 1 : Vent glacial ralentissant toutes les créatures à
+               moins de 2 m (alliés compris).
+    Palier 2 : Les déséquilibre.
+    Palier 3 : Les met à terre.
+
+
+----------------------------------------------------------------
+L'ALCHIMISTE
+----------------------------------------------------------------
+Stats : +3 Dextérité, -3 Courage, +3 Alchimie, -3 Navigation,
+        +1 Aura, -3 Chance
+
+> Maîtrise arcanique — Passif
+  Les Capacités à Mana coûtent 2 Mana de moins à être lancées.
+
+> Concoction imprégnée — Actif — 12 Mana
+  Réalisez un jet d'Aura à la place d'un jet d'Alchimie lors de
+  la création d'une potion.
+    Palier 1 : La potion est fabriquée.
+    Palier 2 : Fabriquée, effets augmentés de 100%.
+    Palier 3 : Fabriquée, effets +100%, matériaux non consommés.
+
+> Crachat magique — Actif — 6 Mana
+  Réalisez un jet d'Aura en crachant dans une potion.
+    Palier 1 : Son utilisation fait gagner 4 points de Ténacité.
+    Palier 2 : 8 points de Ténacité.
+    Palier 3 : 12 points de Ténacité.
+
+> Récolte fructueuse — Actif — 9 Énergie
+  Réalisez un jet pour récolter des ingrédients alchimiques
+  (Botanique, Géologie ou Pêche).
+    Palier 1 : 1 ingrédient de chaque (comme un résultat de 16
+               à 20).
+    Palier 2 : 2 ingrédients de chaque (comme un résultat de
+               20).
+    Palier 3 : 3 ingrédients de chaque.
+
+
+----------------------------------------------------------------
+LE CLERC
+----------------------------------------------------------------
+Stats : +3 Courage, -3 Endurance, +3 Soin, -3 Natation,
+        +3 Aura, -5 Chance
+
+> Présence Divine — Passif
+  Chaque dépense de Mana ou d'Énergie à moins de 2 m d'un ou
+  plusieurs alliés leur fait gagner 3 points de Ténacité.
+
+> Guérison de Naé — Actif — 10 Mana
+  Réalisez un jet d'Aura pour soigner une blessure.
+    Palier 1 : Soignez 2D10 PV immédiatement.
+    Palier 2 : 2D10 PV + Soin 5.
+    Palier 3 : 2D10 PV + Soin 10.
+
+> Foi de Wekiwi — Actif — 7 Mana
+  Réalisez un jet d'Aura ciblant un allié ou vous-même.
+    Palier 1 : 3 points de Ténacité.
+    Palier 2 : 5 points de Ténacité.
+    Palier 3 : 7 points de Ténacité.
+
+> Touché de Tøl — Actif — 6 Mana
+  Réalisez un jet d'Aura en touchant une arme.
+    Palier 1 : +3 dégâts sur la prochaine attaque réussie avec
+               cette arme.
+    Palier 2 : +5 dégâts.
+    Palier 3 : +7 dégâts.
+
+
+----------------------------------------------------------------
+LE PALADIN
+----------------------------------------------------------------
+Stats : +3 Constitution, -3 Agilité, +3 Équitation,
+        -3 Roublardise, +1 Aura, -3 Chance
+
+> Présence Divine — Passif
+  Chaque dépense de Mana ou d'Énergie à moins de 2 m d'un ou
+  plusieurs alliés leur fait gagner 3 points de Ténacité.
+
+> Hurlement de Kyverio — Actif — 15 Mana
+  Réalisez un jet d'Aura.
+    Palier 1 : Jusqu'à votre prochain tour, tous les adversaires
+               en combat subissent -2 Omni.
+    Palier 2 : -5 Omni.
+    Palier 3 : Tous les adversaires sautent leur tour (ils
+               peuvent toujours réagir à une interaction).
+
+> Couvert de Maestra — Actif — 8 Mana
+  Réalisez un jet d'Aura ; effet jusqu'au début de votre
+  prochain tour.
+    Palier 1 : Alliés à moins de 2 m (vous compris) : -5 aux
+               dégâts subis.
+    Palier 2 : -10.
+    Palier 3 : -15.
+
+> Charge du Centaure — Actif — 12 Énergie
+  Réalisez un jet de Constitution.
+    Palier 1 : Chargez sur 10 m (5 cases) : 5 dégâts, cible
+               déséquilibrée si possible.
+    Palier 2 : 10 dégâts, cible mise à terre si possible.
+    Palier 3 : 15 dégâts, cible inconsciente 1 tour si possible.
+
+
+----------------------------------------------------------------
+LE SHAMAN
+----------------------------------------------------------------
+Stats : +3 Perception, -3 Charisme, +3 Botanique, -3 Culture,
+        +3 Aura, -5 Chance
+
+> Souffle de vie — Passif
+  Chaque dépense de Mana vous fait regagner autant de PV.
+
+> Gravure runique — Actif — 20 Mana
+  Réalisez un jet d'Aura en ciblant une arme pour y inscrire une
+  rune. Nécessite une heure de disponible.
+    Palier 1 : Échangez un attribut de l'arme contre un autre
+               tiré au hasard.
+    Palier 2 : Contre un autre parmi 3 tirés au hasard.
+    Palier 3 : Contre un autre parmi 5 tirés au hasard.
+
+> Totem réparateur — Actif — 15 Mana
+  Réalisez un jet d'Aura pour invoquer un totem de racines.
+  Chaque allié qui le touche (action courte) absorbe 20 PV et
+  gagne 5 points de Ténacité.
+    Palier 1 : Le totem a 40 PV.
+    Palier 2 : 60 PV.
+    Palier 3 : 80 PV.
+
+> Totem destructeur — Actif — 12 Mana
+  Réalisez un jet d'Aura pour invoquer un totem de pierre.
+  Chaque dégât infligé au totem est reflété à tous les
+  adversaires à moins de 10 m (5 cases).
+    Palier 1 : Le totem a 10 PV.
+    Palier 2 : 20 PV.
+    Palier 3 : 30 PV.
+
+
+----------------------------------------------------------------
+LE NAYRA
+----------------------------------------------------------------
+Stats : +3 Agilité, -3 Force, +3 Natation, -3 Art de la guerre,
+        +1 Aura, -3 Chance
+
+> Souffle de vie — Passif
+  Chaque dépense de Mana vous fait regagner autant de PV.
+
+> Invocation des ombres — Actif — 6 Mana
+  Réalisez un jet d'Aura en ciblant un endroit à moins de 8 m
+  (4 cases).
+    Palier 1 : Déplacez-vous y si accessible.
+    Palier 2 : Idem + 5 points de Ténacité.
+    Palier 3 : Téléportation via les ombres + 10 points de
+               Ténacité.
+
+> Déviation éclair — Actif — 4 Mana
+  Réalisez un jet d'Aura lorsque vous êtes la cible d'une
+  attaque.
+    Palier 1 : Vous subissez 20 + 1D10 dégâts ; regagnez 4 Mana.
+    Palier 2 : Vous subissez 10 dégâts.
+    Palier 3 : Dégâts ignorés ; action courte immédiate.
+
+> Méditation régénératrice — Actif — 10 Énergie
+  Réalisez un jet de Sorcellerie (Spiritualité) pour méditer.
+  Une heure de disponible ; une fois par jour.
+    Palier 1 : 10 points de Ténacité et 10 Mana.
+    Palier 2 : 15 et 15.
+    Palier 3 : 20 et 20.
+
+
+----------------------------------------------------------------
+LE NÉCROMANT
+----------------------------------------------------------------
+Stats : +3 Endurance, -3 Perception, +3 Géologie, -3 Dressage,
+        +3 Aura, -5 Chance
+
+> Remords funeste — Passif
+  Pour chaque tranche de 5 PV perdus en un coup, gagnez 1 point
+  de Ténacité.
+
+> Profanation impie — Contrôlable — 20 Mana
+  Réalisez un jet d'Aura en ciblant un cadavre de taille
+  humaine, qui revient à la vie sous votre contrôle et joue son
+  tour juste après le vôtre. Tant qu'il est "en vie", vous ne
+  pouvez plus gagner de PV. Il se décompose après une heure, à
+  0 PV, ou si vous mettez fin au Contrôlable.
+    Palier 1 : 30 PV, 1D8 dégâts à main nue, Statistiques à -3.
+    Palier 2 : 50 PV, 1D10, Statistiques à 0.
+    Palier 3 : 70 PV, 1D12, Statistiques à +3.
+
+> Dernier soupir — Actif — 5 Mana
+  Réalisez un jet d'Aura à moins de 2 m d'une créature qui vient
+  de mourir, pour en inspirer le dernier souffle.
+    Palier 1 : Soin 4 ou 5 Mana.
+    Palier 2 : Soin 6 ou 10 Mana.
+    Palier 3 : Soin 8 ou 15 Mana.
+
+> Rituel sanguin Démoniaque — Actif — 10 Mana
+  Avant toute action, choisissez un bonus entre +1 et +5 à lui
+  appliquer, puis réalisez un jet d'Aura. Ne compte pas comme
+  une action courte.
+    Palier 1 : Bonus non appliqué ; vous perdez (bonus x10) PV.
+    Palier 2 : Bonus appliqué ; même perte de PV.
+    Palier 3 : Bonus appliqué, sans perte de PV.
+
+
+----------------------------------------------------------------
+LE CULTISTE
+----------------------------------------------------------------
+Stats : +3 Charisme, -3 Dextérité, +3 Culture, -3 Soin,
+        +1 Aura, -3 Chance
+
+> Remords funeste — Passif
+  Pour chaque tranche de 5 PV perdus en un coup, gagnez 1 point
+  de Ténacité.
+
+> Invocation infernale — Actif — 15 Mana
+  Requiert un combustible. Le MJ réalise en secret un jet avec
+  votre bonus d'Aura pour confectionner une effigie. Nécessite
+  une heure de disponible.
+    Palier 1 : En brûlant l'effigie : Folie durant quelques
+               heures.
+    Palier 2 : Une créature démoniaque inconnue est invoquée
+               pour une durée indéterminée ; vous êtes affligé
+               de Folie.
+    Palier 3 : Idem, sans Folie.
+
+> Chroniqueur occulte — Actif — 10 Mana
+  Réalisez un jet d'Aura en étudiant un Manuscrit.
+    Palier 1 : Le manuscrit se consume dans vos mains.
+    Palier 2 : Son coût d'utilisation est réduit de 3.
+    Palier 3 : Ses effets à l'utilisation sont doublés.
+
+> Scarification chaotique — Actif — 7 Énergie
+  Réalisez un jet de Spiritualité en vous scarifiant des
+  symboles démoniaques sur les mains.
+    Palier 1 : Perdez tous vos points de Ténacité.
+    Palier 2 : Aucun effet.
+    Palier 3 : Doublez vos points de Ténacité.
+
+
+----------------------------------------------------------------
+LE GUERRIER
+----------------------------------------------------------------
+Stats : +3 Constitution, -3 Perception, +3 Art de la Guerre,
+        -3 Fabrication, -3 Aura, +1 Chance
+
+> Maître martial — Passif
+  Pour chaque tranche de 5 points de dégâts infligés, gagnez 1
+  point de Ténacité.
+
+> Revers du Mohrost — Actif — 8 Énergie
+  Réalisez un jet d'Endurance avant d'attaquer, parer ou
+  esquiver. Ne compte pas comme une action courte.
+    Palier 1 : Votre action gagne +1.
+    Palier 2 : +2.
+    Palier 3 : +3.
+
+> Commandement — Actif — 6 Énergie
+  Réalisez un jet d'Art de la guerre en donnant un ordre à un
+  allié (l'action résultante doit donner lieu à un jet de dé).
+    Palier 1 : S'il suit l'ordre : +1,5 sur l'action.
+    Palier 2 : +2.
+    Palier 3 : +2,5.
+
+> Hymne vivifiant — Actif — 8 Mana
+  Réalisez un jet d'Aura pour chanter en chœur avec vos alliés.
+  L'effet de chaque palier est multiplié par le nombre de
+  participants (action courte requise le même tour).
+    Palier 1 : Chaque participant gagne 2 Énergie et 2 Mana, +
+               1 point de Ténacité.
+    Palier 2 : 4 Énergie/Mana, + 2 Ténacité.
+    Palier 3 : 6 Énergie/Mana, + 3 Ténacité.
+
+
+----------------------------------------------------------------
+LE BARBARE
+----------------------------------------------------------------
+Stats : +3 Force, -3 Dextérité, +3 Pêche, -3 Sorcellerie,
+        -5 Aura, +3 Chance
+
+> Maître martial — Passif
+  Pour chaque tranche de 5 points de dégâts infligés, gagnez 1
+  point de Ténacité.
+
+> Parade écrasante — Actif — 6 Énergie
+  Cible d'une attaque : réalisez un jet de Force ou de Dextérité
+  (selon l'arme équipée) comme un jet d'attaque.
+    Palier 1 : Attaque ratée, vous subissez l'attaque adverse.
+    Palier 2 : L'adversaire vous inflige 10 dégâts.
+    Palier 3 : Attaque réussie, l'attaque adverse est ignorée.
+
+> Rage de l'abattoir — Actif — 14 Énergie
+  Réalisez un jet de Courage ; effet jusqu'au début de votre
+  prochain tour.
+    Palier 1 : Relancez une fois vos jets de dégâts.
+    Palier 2 : +1,5 sur les jets d'attaque, relance des dégâts.
+    Palier 3 : +3 sur les jets d'attaque, relance des dégâts.
+
+> Hurlement bestial — Actif — 2 Énergie
+  Réalisez un jet d'Endurance.
+    Palier 1 : Défaussez de la Ténacité : 1 Énergie par 2
+               points.
+    Palier 2 : 1 Énergie par point.
+    Palier 3 : 2 Énergie par point.
+
+
+----------------------------------------------------------------
+L'ELDORIEN
+----------------------------------------------------------------
+Stats : +3 Courage, -3 Réflexion, +3 Navigation, -3 Escalade,
+        -3 Aura, +1 Chance
+
+> Maître survivaliste — Passif
+  En dépensant de la Ténacité pour un jet de Caractéristique,
+  gagnez un bonus gratuit de +0,2.
+
+> Sérénade des deux divins — Actif — 6 Mana
+  Réalisez un jet d'Aura pour conter une histoire. Avec leur
+  accord, redistribuez les points de Ténacité entre les membres
+  du groupe. Une heure de disponible.
+    Palier 1 : Chaque membre gagne 1D4 point de Ténacité.
+    Palier 2 : 1D6.
+    Palier 3 : 1D8.
+
+> Fortune du flibustier — Actif — 10 Énergie
+  Réalisez un jet de Charisme avant un jet de Chance.
+    Palier 1 : +1 au jet de Chance.
+    Palier 2 : Possibilité d'annuler et de relancer une fois.
+    Palier 3 : Possibilité de relancer 2 fois.
+
+> Expérience de loup de mer — Actif — 7 Énergie
+  Réalisez un jet d'Endurance avant de vous entraîner.
+    Palier 1 : Défaussez de la Ténacité : +1 au jet
+               d'Entraînement par 3 points.
+    Palier 2 : Par 2 points.
+    Palier 3 : Par 1 point.
+
+
+----------------------------------------------------------------
+L'ÉCLAIREUR
+----------------------------------------------------------------
+Stats : +3 Perception, -3 Courage, +3 Cuisine, -3 Alchimie,
+        -5 Aura, +3 Chance
+
+> Maître survivaliste — Passif
+  En dépensant de la Ténacité pour un jet de Caractéristique,
+  gagnez un bonus gratuit de +0,2.
+
+> Vision d'aigle — Actif — X Énergie
+  Réalisez un jet de Perception en visant un ennemi.
+    Palier 1 : +1 dégât par 2 Énergie dépensée sur vos attaques
+               réussies contre lui.
+    Palier 2 : +1 dégât par 1 Énergie dépensée.
+    Palier 3 : +2 dégâts par 1 Énergie dépensée.
+
+> Mets délicats — Actif — 12 Énergie
+  Réalisez un jet de Dextérité à la place d'un jet de Cuisine
+  lors de la création d'un repas.
+    Palier 1 : Le repas est fabriqué.
+    Palier 2 : Effets +100%.
+    Palier 3 : Effets +100%, matériaux non consommés.
+
+> Position tactique — Actif — 8 Énergie
+  Réalisez un jet d'Agilité.
+    Palier 1 : Déplacez-vous jusqu'à 6 m (3 cases).
+    Palier 2 : Idem + 3 points de Ténacité.
+    Palier 3 : Idem + action courte supplémentaire ce tour.
+
+
+----------------------------------------------------------------
+LE VOLEUR
+----------------------------------------------------------------
+Stats : +3 Dextérité, -3 Force, +3 Roublardise, -3 Géologie,
+        -3 Aura, +1 Chance
+
+> Maître des Ombres — Passif
+  Tant que vous n'êtes pas repéré, gagnez +1,5 Omni.
+
+> Instinct de connaisseur — Actif — 3 Énergie
+  Pour un jet de Chance de récupération d'objets, réalisez en
+  plus un jet de Roublardise.
+    Palier 1 : 1 Bibelot précieux (valeur 10).
+    Palier 2 : 2 Bibelots précieux.
+    Palier 3 : 3 Bibelots précieux.
+
+> Pavanation roublarde — Actif — 8 Énergie
+  Réalisez un jet de Charisme. Chaque résultat de Roublardise
+  >= 14 octroie 2 points de Ténacité pendant la durée.
+    Palier 1 : Jusqu'à la prochaine action.
+    Palier 2 : Une heure.
+    Palier 3 : Une demi-journée.
+
+> Adrénaline du pactole — Actif — 12 Énergie
+  Réalisez un jet d'Endurance.
+    Palier 1 : 1 point de Ténacité par Bibelot/objet de valeur
+               possédé.
+    Palier 2 : 2 points.
+    Palier 3 : 3 points.
+
+
+----------------------------------------------------------------
+L'ASSASSIN
+----------------------------------------------------------------
+Stats : +3 Agilité, -3 Constitution, +3 Escalade, -3 Botanique,
+        -5 Aura, +3 Chance
+
+> Maître des Ombres — Passif
+  Tant que vous n'êtes pas repéré, gagnez +1,5 Omni.
+
+> Sombre volonté — Actif — 8 Énergie
+  Sur votre jet de dégâts d'attaque, réalisez un jet de
+  Dextérité.
+    Palier 1 : +1D4 dégâts ; si l'adversaire meurt, +5 points de
+               Ténacité.
+    Palier 2 : +2D4 ; +10 points de Ténacité.
+    Palier 3 : +3D4 ; +15 points de Ténacité.
+
+> Venin déchiqueteur — Actif — 15 Énergie
+  Réalisez un jet d'Alchimie pour fabriquer un poison. Une
+  heure de disponible.
+    Palier 1 : 1D10 dégâts, Blessures 2.
+    Palier 2 : 2D10, Blessures 4.
+    Palier 3 : 3D10, Blessures 6.
+
+> Disparition éclair — Actif — 6 Énergie
+  Réalisez un jet de Roublardise pour disparaître dans un jet de
+  poussière.
+    Palier 1 : Déplacez-vous jusqu'à 6 m (3 cases).
+    Palier 2 : Idem ; un adversaire à moins de 2 m est
+               déséquilibré.
+    Palier 3 : Idem ; tous les adversaires à moins de 2 m sont
+               déséquilibrés.
+
+
+----------------------------------------------------------------
+LE DOMPTEUR
+----------------------------------------------------------------
+Stats : +3 Charisme, -3 Endurance, +3 Dressage, -3 Chasse,
+        -3 Aura, +1 Chance
+
+> Maître spécialiste (Dompteur) — Passif
+  En communiquant avec un animal, gagnez +1 Omni.
+
+> Pacte bestial — Actif — 20 Énergie
+  Réalisez un jet de Dressage (malus de -5) en présence d'une
+  créature animale amicale.
+    Palier 1 : L'animal prend la fuite.
+    Palier 2 : Pacte créé ; si un Pacte existait déjà,
+               choisissez lequel des deux conserver.
+    Palier 3 : Pacte créé ; jusqu'à trois Pactes simultanés,
+               avec le même choix à faire.
+
+> Remède animal — Actif — 12 Énergie
+  Réalisez un jet de Cuisine pour une concoction consommable
+  aussi par une créature liée. Une heure de disponible.
+    Palier 1 : 5 points de Ténacité.
+    Palier 2 : Idem + 1D4 aux jets de dégâts durant 1h.
+    Palier 3 : Idem + déplacement gratuit de 2 m par tour
+               durant 1h.
+
+> Lien sacré — Contrôlable — 15 Mana
+  Réalisez un jet d'Aura en présence d'une créature liée, en
+  posture méditative. L'interaction extérieure interrompt
+  automatiquement l'effet.
+    Palier 1 : Échec : sortie immédiate, +3 points de Ténacité.
+    Palier 2 : Contrôle de la créature (+1 aux Statistiques,
+               50 PV, 2D6 dégâts, 4 m de déplacement gratuit/
+               tour) ; conservez vos points de Ténacité.
+    Palier 3 : Idem avec +2, 80 PV, 3D6 dégâts, 6 m de
+               déplacement gratuit/tour.
+
+
+----------------------------------------------------------------
+L'ABRONISTE
+----------------------------------------------------------------
+Scientifique suivant l'exemple du grand inventeur Kanezer
+Abronos, reconnu par ses pairs comme l'initiateur de la
+recherche des mécanismes du monde dans le but de les exploiter.
+La création de nouvelles formes d'équipements est sa motivation
+principale. Les Abronistes sont particulièrement communs sur la
+Triade, terre natale de Kanezer, ainsi qu'à Bônacard.
+
+Stats : +3 Réflexion, -3 Agilité, +3 Fabrication, -3 Équitation,
+        -5 Aura, +3 Chance
+
+> Maître spécialiste (Abroniste) — Passif
+  En utilisant une de vos fabrications, gagnez +1 Omni.
+
+> Failles évidentes — Actif — 6 Énergie
+  Réalisez un jet de Réflexion. Lors de votre prochaine
+  interaction avec un adversaire, il subit un malus d'esquive et
+  de parade.
+    Palier 1 : -1
+    Palier 2 : -3
+    Palier 3 : -5
+
+> C'est en forgeant — Actif — 6 Énergie
+  Choisissez une recette inconnue et réalisez le jet de
+  Connaissances associé. Une heure de disponible et les
+  matériaux indiqués.
+    Palier 1 : Matériaux conservés, fabrication échouée.
+    Palier 2 : Matériaux perdus, objet fabriqué.
+    Palier 3 : Matériaux perdus, objet fabriqué, recette
+               apprise.
+
+> Entretien prometteur — Actif — 14 Énergie
+  Réalisez un jet de Fabrication pour restaurer une arme ou une
+  armure. Choisissez une Statistique ou Connaissance. Une heure
+  de disponible.
+    Palier 1 : Malus permanent de -0,1 sur cette Statistique/
+               Connaissance.
+    Palier 2 : Gagnez 7 points d'Énergie.
+    Palier 3 : Bonus permanent de +0,1.
+
+
+----------------------------------------------------------------
+LE VAMPIRE
+----------------------------------------------------------------
+Stats : +3 Endurance, -3 Charisme, +3 Cartographie, -3 Pêche,
+        +2 Aura, -4 Chance
+
+> Maître de soi — Passif
+  Sous l'effet d'un Contrôlable, vos coûts en Énergie et en Mana
+  sont divisés par 2 (arrondi au supérieur).
+
+> Rage vampirique — Contrôlable — 10 PM
+  Réalisez un jet d'Aura pour vous transformer en bête
+  vampirique et ignorer la restriction de bonus liée aux PV.
+  Sortie automatique (et -40 PV) si touché par un plein soleil.
+    Palier 1 : Action courte pour perdre des PV au choix : 1
+               point de Ténacité par 3 PV perdus.
+    Palier 2 : Par 2 PV perdus.
+    Palier 3 : Par 1 PV perdu.
+
+> Ailes de la nuit — Actif — 12 PM
+  Réalisez un jet d'Aura pour vous transformer en chauve-souris
+  durant quelques secondes.
+    Palier 1 : Déplacez-vous jusqu'à 6 m en ignorant les
+               obstacles ; action simple +1 Omni.
+    Palier 2 : 8 m ; +2 Omni.
+    Palier 3 : 10 m ; +3 Omni.
+
+> Succulence — Actif — 8 PE
+  Réalisez un jet de Charisme en ciblant une créature pour boire
+  son sang frais et regagner autant de PV que de points de
+  Ténacité possédés.
+    Palier 1 : Échoue si la cible n'est pas morte.
+    Palier 2 : Échoue si la cible n'est pas affaiblie.
+    Palier 3 : Réussit quel que soit l'état de la cible.
+
+
+----------------------------------------------------------------
+LE LYCANTHROPE
+----------------------------------------------------------------
+Stats : +3 Force, -3 Réflexion, +3 Chasse, -3 Cartographie,
+        -4 Aura, +2 Chance
+
+> Maître de soi — Passif
+  Sous l'effet d'un Contrôlable, vos coûts en Énergie et en Mana
+  sont divisés par 2 (arrondi au supérieur).
+
+> Fils de la lune — Contrôlable — 14 Énergie
+  Réalisez un jet d'Endurance pour vous transformer en
+  Loup-garou. Vos points de Mana valent alors des points
+  d'Énergie, et vos déplacements sont augmentés de 2 m.
+    Palier 1 : Attaques à main nue : +2D8 dégâts. Perdez 3 PV
+               si le D20 est < 20.
+    Palier 2 : +2D10. Perdez 3 PV si le D20 est < 14.
+    Palier 3 : +2D12. Perdez 3 PV si le D20 est < 8.
+
+> Prédation sanguinaire — Actif — 3 Énergie
+  Réalisez un jet de Chasse en ciblant une créature à portée.
+    Palier 1 : Blessures 2.
+    Palier 2 : Blessures 3.
+    Palier 3 : Blessures 4.
+
+> Hurlement fraternel — Actif — 6 Énergie
+  Réalisez un jet de Charisme pour galvaniser votre groupe :
+  tous les membres ignorent la restriction de bonus liée aux PV
+  durant 1h.
+    Palier 1 : Chaque membre gagne, au choix, 1D8 PE ou PM.
+    Palier 2 : 1D10.
+    Palier 3 : 1D12.
+
+
+================================================================
+                    FIN DU DOCUMENT
+================================================================
